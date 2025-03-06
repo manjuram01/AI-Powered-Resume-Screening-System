@@ -60,6 +60,4 @@ tfidf.pkl: TF-IDF vectorizer for text transformation.
 
 encoder.pkl: Label encoder for decoding predicted categories.
 
-Ensure these files are present in the project directory for the system to function correctly.
 
-Enjoy using the AI-Powered Resume Screening System! 🚀
